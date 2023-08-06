@@ -40,4 +40,5 @@ next.jsが正常にセットアップされているか確認のため、下記�
 `npm run start`  
 
 こんな感じの画面が表示されればOKです。  
-（画像を貼る）
+<img width="1719" alt="スクリーンショット 2023-08-06 16 34 55" src="https://github.com/monomonosu/teach-nextjs-deploy/assets/77572073/f5c2d309-e1f0-43f8-9447-e60bfd60376a">
+  
