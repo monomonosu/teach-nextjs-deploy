@@ -31,3 +31,13 @@ remote設定
 `git push origin main`
   
 これでpushできるかと思います。
+
+## next.jsのビルド
+next.jsセットアップ直後は`npm install`が必要みたいなのでコマンドの実行をお願いします。  
+
+next.jsが正常にセットアップされているか確認のため、下記を実行  
+`npm run build`  
+`npm run start`  
+
+こんな感じの画面が表示されればOKです。  
+（画像を貼る）
