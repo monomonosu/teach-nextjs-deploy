@@ -45,11 +45,13 @@ next.jsが正常にセットアップされているか確認のため、下記�
 ## vercelへのデプロイ
 VercelへのデプロイはGUI上で行えます。  
 まずは https://vercel.com/ へアクセスして画面右上の「sign up」から登録画面に飛び、「hobby」プランを選択。UserNameの入力もします。  
-（画像を貼る）  
+<img width="681" alt="スクリーンショット 2023-08-07 22 16 13" src="https://github.com/monomonosu/teach-nextjs-deploy/assets/77572073/4f88b80a-16ea-49f3-a98e-280870667ded">
+
 
 GitHubログインで登録をしておきます。  
   
 ダッシュボードに移動したら「Add Github Account」を選択し、Repositoryを選択できる状態にします。  
-（画像を貼る）  
+
+<img width="1229" alt="スクリーンショット 2023-08-11 20 38 16" src="https://github.com/monomonosu/teach-nextjs-deploy/assets/77572073/d76aa8af-0f06-4c31-9090-c185cee63860">
 
 
