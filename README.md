@@ -55,15 +55,14 @@ GitHubログインで登録をしておきます。
 <img width="1229" alt="スクリーンショット 2023-08-11 20 38 16" src="https://github.com/monomonosu/teach-nextjs-deploy/assets/77572073/d76aa8af-0f06-4c31-9090-c185cee63860">
 
 リポジトリが選択できる状態になったらデプロイしたいリポジトリの「Import」ボタンを押下します。  
-(ここに画像を貼る)
+<img width="753" alt="スクリーンショット 2023-08-12 18 09 23" src="https://github.com/monomonosu/teach-nextjs-deploy/assets/77572073/de4ff310-6ab0-4dbd-b492-a78432e7c7aa">
   
 プロジェクト名を入力し、「Deploy」を選択。（その他設定が必要な場合は設定。）  
-（ここに画像を貼る）  
+<img width="860" alt="スクリーンショット 2023-08-12 18 09 57" src="https://github.com/monomonosu/teach-nextjs-deploy/assets/77572073/9799c3c2-7e22-4f0b-9e59-6da3039732e3">
   
 下記のような画面が出たらデプロイ完了です。  
 アプリのプレビュー画面を押下するとデプロイしたURLに遷移する事ができます。  
-(ここに画像を貼る)  
-  
+<img width="1300" alt="スクリーンショット 2023-08-12 18 12 32" src="https://github.com/monomonosu/teach-nextjs-deploy/assets/77572073/dbc6fd92-3029-4642-921b-21fbce896943">
   
 これ以降はリポジトリに差分をPushする度に変更が反映されるはずです。
   
